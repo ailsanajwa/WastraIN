@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="beige">#F1E1D2</color>
+    <color name="black">#FF000000</color>
+    <color name="border_color">#E9D8C9</color>
+    <color name="brown_dark">#2F1D18</color>
+    <color name="brown_primary">#704331</color>
+    <color name="brown_secondary">#B76E4D</color>
+    <color name="cream_background">#FBF5EE</color>
+    <color name="terracotta">#B76E4D</color>
+    <color name="text_muted">#8A6B5C</color>
+    <color name="text_primary">#2F1D18</color>
+    <color name="text_secondary">#704331</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">WastraIN</string>
+    <string name="subtitle">Wawasan Batik Indonesia</string>
+    <style name="Theme.WastraIN" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brown_primary</item>
+        <item name="colorSecondary">@color/brown_secondary</item>
+        <item name="android:windowBackground">@color/cream_background</item>
+    </style>
+</resources>

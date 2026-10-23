@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/wastrain_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/wastrain_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WastraIN">
+
+        <activity
+            android:name=".OnboardingActivity"
+            android:exported="true"
+            android:theme="@style/Theme.WastraIN">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".ClassificationActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".ClassificationResultActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".CameraActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".HistoryActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".FavoritesActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".MotifInfoActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".CollectionActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".LaboratoriumAiActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".PaletWastraActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+        <activity
+            android:name=".JejakAiActivity"
+            android:exported="false"
+            android:theme="@style/Theme.WastraIN" />
+
+    </application>
+
+</manifest>

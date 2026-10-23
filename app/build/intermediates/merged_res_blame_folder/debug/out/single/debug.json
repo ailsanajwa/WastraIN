@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_gentongan.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_gentongan.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_bali.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_bali.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_sogan.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_sogan.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_sidomukti.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_sidomukti.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_lasem.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_lasem.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_tambal.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_tambal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.5\\com.example.wastrain.app-merged_res-37:\\drawable_wastrain_logo.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.5\\com.example.wastrain.app-main-39:\\drawable\\wastrain_logo.png"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_betawi.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_betawi.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_ciamis.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_ciamis.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_parang.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_parang.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_priangan.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_priangan.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_sidoluhur.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_sidoluhur.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_pekalongan.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_pekalongan.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_garutan.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_garutan.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_cendrawasih.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_cendrawasih.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_kawung.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_kawung.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_keraton.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_keraton.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_sekar.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_sekar.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_megamendung.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_megamendung.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_ceplok.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_ceplok.jpg"
+    },
+    {
+        "merged": "com.example.wastrain.app-merged_res-37:/drawable_katalog_batik_celup.jpg.flat",
+        "source": "com.example.wastrain.app-main-39:/drawable/katalog_batik_celup.jpg"
+    }
+]
